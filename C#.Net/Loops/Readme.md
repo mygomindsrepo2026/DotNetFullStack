@@ -405,5 +405,7 @@ class PerfectNumber
     }
 }
 ```
+### Practice Coding Questions
+<a href="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/feature-Loops/C%23.Net/Loops/practicereadme.md">Practice Questions</a>
 
 
