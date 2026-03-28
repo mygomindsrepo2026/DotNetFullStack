@@ -774,6 +774,6 @@ class Program
   🔗<a href="https://online-test.classplusapp.com/?testId=69c659948fce2567a58a3d4b&defaultLanguage=en-US">Final Test</a>
 
   ### Practice Questions
-  <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/feature-Loops/C%23.Net/ConditionalStatements/Cs%20ques.md">Practice Questions</a>
+  <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/feature-Loops/C%23.Net/ConditionatStatements/Cs%20ques.md">Practice Questions</a>
 
 ---
