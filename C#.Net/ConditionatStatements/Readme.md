@@ -111,7 +111,7 @@ This example demonstrates how **real-life scenarios** (like making coffee ☕) c
 
 ---
 **##Syntax**
-## 🔹 1.if Statement
+🔹 1.if Statement
 ### 📘 Definition  
 👉 Executes a block of code only when a condition is true.
 
@@ -124,12 +124,14 @@ if(condition)
 ```
 ### 💻 Example Program
 ```
+<code>
 int age = 18;
 
 if(age >= 18)
 {
     Console.WriteLine("Adult");
 }
+</code>
 ```
 ## 🔹 2.if...else Statement
 
@@ -139,6 +141,7 @@ if(age >= 18)
 
 ### 📌 Syntax
 ```
+<code>
 if(condition)
 {
     // code
@@ -147,9 +150,11 @@ else
 {
     // code
 }
+</code>
 ```
 ### 💻 Example Program
 ```
+<code>
 int age = 16;
 
 if(age >= 18)
@@ -160,6 +165,7 @@ else
 {
     Console.WriteLine("Minor");
 }
+</code>
 ```
 ## 🔹 3. if...else if...else Statement
 
@@ -169,6 +175,7 @@ else
 
 ### 📌 Syntax
 ```
+<code>
 if(condition1)
 {
     // code
@@ -181,9 +188,11 @@ else
 {
     // code
 }
+</code>
 ```
 ### 💻 Example Program
 ```
+<code>
 int marks = 75;
 if(marks >= 90)
 {
@@ -197,18 +206,20 @@ else
 {
     Console.WriteLine("Grade C");
 }
+</code>
 ```
 ## 🔹 What is Leapyear
-<h1>A leap year is a year with 366 days, occurring every 4 years to keep our calendar aligned with Earth's orbit.</h1>
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/12.png" width="500"/>
+<h1> A leap year is a year with 366 days, occurring every 4 years to keep our calendar aligned with Earth's orbit.</h1>
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/10.png" width="500"/>
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/13.png" width="500"/>
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/14.png" width="500"/>
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/15.png" width="500"/>
 ##Code
-<code>
+
     # 📅 C# Program – Leap Year Check
 
 ```csharp
+<code>
 using System;
 
 class LeapYearProgram
@@ -234,6 +245,7 @@ class LeapYearProgram
         Console.ReadKey();
     }
 }
+</code>
 ```
 
 ---
