@@ -18,16 +18,6 @@ It means **hiding internal implementation details** and showing only the **essen
 
 ---
 
-##  Real-Time Example
-
-###  Car
-
-* You can **drive a car** without knowing how the engine works
-* You only use **steering, brake, accelerator**
-
-👉 This is **Abstraction**
-
----
 
 ##  How Abstraction is Achieved in C#
 
@@ -74,8 +64,8 @@ class Dog : Animal
 
 
 <p align="left">
-  <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/tree/main/C%23.Net/Oops/Abstraction"> 
-    <b style="font-size:20px; margin-left:10px;">Abstraction</b>
+  <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/tree/main/C%23.Net/Oops/Interfaces"> 
+    <b style="font-size:20px; margin-left:10px;">Interfaces</b>
   </a>
 </p>
 
