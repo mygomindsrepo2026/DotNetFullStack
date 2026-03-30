@@ -286,7 +286,7 @@ b = 5
 * Logical operations
 ---
 ## based on the below figure create an array to strore 6 even and 6 odd numbers
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/68.png" width="500"/>
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/72.png" width="500"/>
 
 ##  Practice Problems
 
