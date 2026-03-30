@@ -160,3 +160,12 @@ class Person
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/59.png" width="500"/>
 
 ---
+
+
+<a href="https://online-test.classplusapp.com/?testId=67e40e1e7eeefb2239b1eae8&defaultLanguage=en-US">Test5</a>
+
+---
+
+<a href="https://online-test.classplusapp.com/?testId=67ebf60258510b94ffd42bef&defaultLanguage=en-US">Test6</a>
+
+---
