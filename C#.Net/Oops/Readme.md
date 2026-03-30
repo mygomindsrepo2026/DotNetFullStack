@@ -19,7 +19,7 @@ It helps in organizing code in a structured and reusable way.
 
 ---
 
-
+<!----
 ##  Key Concepts of OOPS
 <p align="left">
   <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/tree/main/C%23.Net/Oops/Classes%26Objects"> 
@@ -60,7 +60,7 @@ It helps in organizing code in a structured and reusable way.
 </p>
 
 ---
-
+--->
 
 ##  Advantages of OOPS
 
