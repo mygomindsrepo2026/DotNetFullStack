@@ -1,4 +1,4 @@
-# 📘 C# Fundamentals: Loops  
+#  C# Fundamentals: Loops  
 ### *(MygoMinds Training Notes)*
 
 ---
@@ -6,18 +6,18 @@
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/1.png" width="500"/>
 
 ---
-## 🧠 1. What is a Loop?
+##  1. What is a Loop?
 
 👉 A **Loop** is used to execute a block of code repeatedly based on a condition.
 
-### 🔹 Why Loops?
+###  Why Loops?
 - Reduce code repetition  
 - Improve efficiency  
 - Handle large data easily  
 
 ---
 
-## 🔁 2. Types of Loops in C#
+##  2. Types of Loops in C#
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/2.png" width="500"/>
 
@@ -31,7 +31,7 @@
 
 👉 Used when the number of iterations is known.
 
-### 📌 Syntax:
+###  Syntax:
 
 ```csharp
 for(initialization; condition; increment/decrement)
@@ -42,7 +42,7 @@ for(initialization; condition; increment/decrement)
 
 ---
 
-### 📌 Example: Print "MygoMinds" 5 Times
+###  Example: Print "MygoMinds" 5 Times
 
 ```csharp
 for(int i = 1; i <= 5; i++)
@@ -54,26 +54,26 @@ for(int i = 1; i <= 5; i++)
 
 ---
 
-### 📌 Observe The Number Series
+###  Observe The Number Series
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/4.png" width="500"/>
 
 ---
 
-### 📌 Spot the Loop
+###  Spot the Loop
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/5.png" width="500"/>
 
 
 ---
 
-### 📌 Match The Following
+###  Match The Following
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/6.png" width="500"/>
 
 
 ---
 
-### 📌 Spot the Loop
+###  Spot the Loop
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/7.png" width="500"/>
 
@@ -84,7 +84,7 @@ for(int i = 1; i <= 5; i++)
 
 👉 Used when the number of iterations is **not known**.
 
-### 📌 Syntax:
+###  Syntax:
 
 ```csharp
 while(condition)
@@ -93,7 +93,7 @@ while(condition)
 }
 ```
 
-### 📌 Example:
+###  Example:
 
 ```csharp
 int i = 1;
@@ -111,7 +111,7 @@ while(i <= 5)
 
 👉 Executes at least **once**, even if condition is false.
 
-### 📌 Syntax:
+###  Syntax:
 
 ```csharp
 do
@@ -121,7 +121,7 @@ do
 while(condition);
 ```
 
-### 📌 Example:
+###  Example:
 
 ```csharp
 int i = 1;
@@ -139,7 +139,7 @@ while(i <= 5);
 
 👉 Used to iterate through collections like arrays.
 
-### 📌 Syntax:
+###  Syntax:
 
 ```csharp
 foreach(type variable in collection)
@@ -148,7 +148,7 @@ foreach(type variable in collection)
 }
 ```
 
-### 📌 Example:
+###  Example:
 
 ```csharp
 int[] numbers = {1, 2, 3, 4, 5};
@@ -159,10 +159,10 @@ foreach(int num in numbers)
 }
 ```
 ### 👉 Click The Below Link For Test1:
-🔗 <a href="https://online-test.classplusapp.com/?testId=69c659948fce2567a58a3d4b&defaultLanguage=en-US">Test1</a>
+ <a href="https://online-test.classplusapp.com/?testId=69c659948fce2567a58a3d4b&defaultLanguage=en-US">Test1</a>
 ---
 
-## 💻 Coding Questions
+##  Coding Questions
 
 ### 1️⃣ Check whether a number is Even or Odd 
 ```
@@ -227,7 +227,7 @@ class Program
 
 👉 A **Fibonacci series** is a sequence of numbers where each number is the sum of the two previous numbers.
 
-📌 Example: 0, 1, 1, 2, 3, 5, 8...
+ Example: 0, 1, 1, 2, 3, 5, 8...
 ```
 using System;
 class Program
@@ -251,7 +251,7 @@ class Program
 
 👉 A **prime number** is a number greater than 1 that has only two factors: 1 and itself. 
 
-📌 Example: 2, 3, 5, 7, 11...
+ Example: 2, 3, 5, 7, 11...
 ```
 using System;
 class Program
@@ -276,7 +276,7 @@ class Program
 
 👉 The **factorial** of a number is the product of all positive integers from 1 up to that number.  
 
-📌 Example: 5! = 5 × 4 × 3 × 2 × 1 = 120 
+ Example: 5! = 5 × 4 × 3 × 2 × 1 = 120 
 ```
 using System;
 class Program
@@ -297,7 +297,7 @@ class Program
 
 👉 A **palindrome** is a number or string that reads the same forward and backward.
 
-📌 Example: 121, "madam"
+ Example: 121, "madam"
 ```
 using System;
 class Program
@@ -323,7 +323,7 @@ class Program
 
 👉 An **Armstrong number** is a number where the sum of its digits raised to the power of the number of digits equals the number itself.
 
-📌 Example: 153 = 1³ + 5³ + 3³  
+ Example: 153 = 1³ + 5³ + 3³  
 ```
 using System;
 class Program
@@ -349,7 +349,7 @@ class Program
 
 👉 An **anagram** is a word formed by rearranging the letters of another word using all original letters exactly once. 
 
-📌 Example: "listen" → "silent"
+ Example: "listen" → "silent"
 ```
 using System;
 class Program
@@ -376,7 +376,7 @@ class Program
 
 👉A **perfect number** is a number whose sum of proper divisors (excluding itself) equals the number.
 
-📌 6 → divisors: 1, 2, 3 → sum = 6
+ 6 → divisors: 1, 2, 3 → sum = 6
 
 ```
 using System;
