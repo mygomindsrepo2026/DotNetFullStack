@@ -1,14 +1,14 @@
-# 📘 C# Arrays: Practice Questions
+#  C# Arrays: Practice Questions
 
 ---
 
-## 🧠 Objective
+##  Objective
 
 👉 This document contains **MCQs, theory questions, and coding problems** on Arrays in C# for practice and interviews.
 
 ---
 
-# 📝 Part 1: MCQs
+#  Part 1: MCQs
 
 ### 1️⃣ Array is used to store ______ values
 
@@ -44,7 +44,7 @@ d. size()
 
 ---
 
-## 🔗 6️⃣ Match the Following
+##  6️⃣ Match the Following
 
 | Question         | Answer         |
 | ---------------- | -------------- |
@@ -55,7 +55,7 @@ d. size()
 
 ---
 
-## 🔗 7️⃣ Match the Following
+##  7️⃣ Match the Following
 
 Code Example	                               Type
 
@@ -67,7 +67,7 @@ string[] ar=new string[4];	               Empty array
 
 ---
 
-## 🔍 8️⃣ Spot the Output
+##  8️⃣ Spot the Output
 
 Given Array:
 
@@ -89,7 +89,7 @@ Given Array:
 
 ---
 
-# 📚 Part 2: Theory Questions
+#  Part 2: Theory Questions
 
 1. What is an Array?
 2. How to store elements in an array?
@@ -100,7 +100,7 @@ Given Array:
 
 ---
 
-# 💻 Part 3: Basic Programs
+#  Part 3: Basic Programs
 
 ### 1️⃣ Integer Array Operations
 
@@ -135,7 +135,7 @@ Given Array:
 
 ---
 
-# ⚙️ Part 4: Programming Questions
+#  Part 4: Programming Questions
 
 ### 🔹 Basic Level
 
@@ -163,7 +163,7 @@ Given Array:
 
 ---
 
-# 📊 Part 5: 2D Arrays
+#  Part 5: 2D Arrays
 
 ### Theory
 
@@ -189,7 +189,7 @@ Given Array:
 
 ---
 
-# 🏢 Part 6: Company Questions
+#  Part 6: Company Questions
 
 ### 🔹 Important Problems
 
@@ -233,7 +233,7 @@ Given Array:
 28. Check element (present/duplicate)
 
 ---
-## 🚀 Conclusion
+##  Conclusion
 
 ✔ Covers complete Arrays topic
 ✔ Includes MCQs + Theory + Coding
