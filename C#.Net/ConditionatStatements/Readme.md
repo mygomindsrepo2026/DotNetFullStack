@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/1.png" width="500"/>
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/8.png" width="500"/>
 
 ---
 
