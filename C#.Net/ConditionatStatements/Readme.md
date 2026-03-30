@@ -5,12 +5,12 @@
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/8.png" width="500"/>
 
----
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/9.png" width="500"/>
 # 🔀 Conditional Statements in C#
 
 👉 Conditional statements help in **decision making**.
 
+
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/9.png" width="500"/>
 ---
 
 ## 🔹 1.if Statement
