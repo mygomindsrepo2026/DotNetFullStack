@@ -21,7 +21,7 @@ It helps in organizing code in a structured and reusable way.
 
 
 ##  Key Concepts of OOPS
-<p align="center">
+<p align="left">
   <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/tree/main/C%23.Net/Oops/Classes%26Objects"> 
     <b style="font-size:20px; margin-left:10px;">Class&Object</b>
   </a>
@@ -29,7 +29,7 @@ It helps in organizing code in a structured and reusable way.
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/tree/main/C%23.Net/Oops/Abstraction"> 
     <b style="font-size:20px; margin-left:10px;">Abstraction</b>
   </a>
@@ -37,7 +37,7 @@ It helps in organizing code in a structured and reusable way.
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/tree/main/C%23.Net/Oops/Encapsulation"> 
     <b style="font-size:20px; margin-left:10px;">Encapsulation</b>
   </a>
@@ -45,7 +45,7 @@ It helps in organizing code in a structured and reusable way.
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/tree/main/C%23.Net/Oops/Inheritance"> 
     <b style="font-size:20px; margin-left:10px;">Inheritance</b>
   </a>
@@ -53,7 +53,7 @@ It helps in organizing code in a structured and reusable way.
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/tree/main/C%23.Net/Oops/Polymorphism"> 
     <b style="font-size:20px; margin-left:10px;">Polymorphism</b>
   </a>
