@@ -1,20 +1,117 @@
-# 📘 C# Fundamentals: Loops  
-### *(MygoMinds Training Notes)*
-
----
-
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/8.png" width="500"/>
-
 # 🔀 Conditional Statements in C#
 
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/8.png" width="500"/>
+---
 👉 Conditional statements help in **decision making**.
-
-
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/9.png" width="500"/>
 ---
+## 🔹 Algorithm to Prepare Coffee
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/10.png" width="500"/>
+## 🔹 FlowChart to Prepare Coffee
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/11.png" width="500"/>
+## # ☕ C# Program – Coffee Making Logic (Using Conditional Statements)
+```csharp
+<code>
+using System;
 
+class CoffeeProgram
+{
+    static void Main()
+    {
+        Console.WriteLine("☕ Coffee Preparation Started...");
+
+        // Step 2: Inputs
+        string coffeePowder = "Available";
+        string sugar = "Optional";
+        string milk = "Available";
+        string kettle = "Ready";
+        string cup = "Ready";
+
+        // Step 3: Add coffee powder
+        Console.WriteLine("Adding coffee powder into cup...");
+
+        // Step 4: Add milk to kettle
+        Console.WriteLine("Adding milk into kettle...");
+
+        // Step 5: Boil milk
+        bool isMilkBoiled = false;
+        Console.WriteLine("Boiling milk...");
+        
+        // Simulate boiling process
+        Console.WriteLine("Is milk boiled? (yes/no): ");
+        string input = Console.ReadLine();
+
+        if (input.ToLower() == "yes")
+        {
+            isMilkBoiled = true;
+        }
+
+        // Step 6: Check milk status
+        if (isMilkBoiled)
+        {
+            Console.WriteLine("Milk is boiled. Adding milk to cup...");
+        }
+        else
+        {
+            Console.WriteLine("Milk not boiled. Please switch on kettle...");
+            Console.WriteLine("Boiling again...");
+            isMilkBoiled = true;
+            Console.WriteLine("Milk is now boiled. Adding to cup...");
+        }
+
+        // Step 7: Ask for sugar
+        Console.WriteLine("Do you want sugar? (yes/no): ");
+        string sugarChoice = Console.ReadLine();
+
+        if (sugarChoice.ToLower() == "yes")
+        {
+            Console.WriteLine("Adding sugar to cup...");
+        }
+        else
+        {
+            Console.WriteLine("No sugar added.");
+        }
+
+        // Step 8: Stir
+        Console.WriteLine("Stirring the coffee...");
+
+        // Step 9: Stop
+        Console.WriteLine("☕ Coffee is Ready! Enjoy your drink 😊");
+    }
+}
+</code>
+```
+---
+## 🧠 Concepts Used
+
+* ✅ `if` condition
+* ✅ `if-else` statement
+* ✅ User input (`Console.ReadLine()`)
+* ✅ Boolean logic
+
+---
+
+## 🎯 Output Flow
+
+1. Adds coffee powder
+2. Boils milk (checks condition)
+3. Adds milk if boiled
+4. Asks for sugar
+5. Stirs and completes
+
+---
+
+## 🚀 Conclusion
+
+This example demonstrates how **real-life scenarios** (like making coffee ☕) can be converted into:
+
+* Logical steps
+* Conditional statements
+* Structured programming
+
+---
+**##Syntax**
 ## 🔹 1.if Statement
-
 ### 📘 Definition  
 👉 Executes a block of code only when a condition is true.
 
@@ -25,11 +122,6 @@ if(condition)
     // code
 }
 ```
-### 🔀 Flowchart (if Statement)
-
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/if-Img1.webp" width="500"/>
-
-
 ### 💻 Example Program
 ```
 int age = 18;
@@ -56,11 +148,6 @@ else
     // code
 }
 ```
-
-### 🔀 Flowchart (if...else)
-
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/if_else 2.webp" width="500"/>
-
 ### 💻 Example Program
 ```
 int age = 16;
@@ -95,11 +182,6 @@ else
     // code
 }
 ```
-
-### 🔀 Flowchart (if...else if...else)
-
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/if_else_if_ladder-Img3.webp" width="500"/>
-
 ### 💻 Example Program
 ```
 int marks = 75;
@@ -116,6 +198,101 @@ else
     Console.WriteLine("Grade C");
 }
 ```
+## 🔹 What is Leapyear
+<h1>A leap year is a year with 366 days, occurring every 4 years to keep our calendar aligned with Earth's orbit.</h1>
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/12.png" width="500"/>
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/13.png" width="500"/>
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/14.png" width="500"/>
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/15.png" width="500"/>
+##Code
+<code>
+    # 📅 C# Program – Leap Year Check
+
+```csharp
+using System;
+
+class LeapYearProgram
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter a year:");
+        
+        // Taking input from user
+        int year = Convert.ToInt32(Console.ReadLine());
+
+        // Checking leap year condition
+        if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
+        {
+            Console.WriteLine(year + " is a Leap Year ✅");
+        }
+        else
+        {
+            Console.WriteLine(year + " is NOT a Leap Year ❌");
+        }
+
+        Console.WriteLine("Press any key to exit...");
+        Console.ReadKey();
+    }
+}
+```
+
+---
+
+## 🧠 Logic Used
+
+* Divisible by **4** → Leap Year
+* Divisible by **100** → Not Leap Year
+* Divisible by **400** → Leap Year
+
+---
+
+## ▶️ Sample Output
+
+```
+Enter a year:
+2024
+2024 is a Leap Year ✅
+```
+
+```
+Enter a year:
+2023
+2023 is NOT a Leap Year ❌
+```
+
+---
+
+## 🚀 Bonus (Loop Version)
+
+👉 Check multiple years until user exits:
+
+```csharp
+using System;
+
+class LeapYearLoop
+{
+    static void Main()
+    {
+        while (true)
+        {
+            Console.WriteLine("Enter a year (or type 0 to exit):");
+            int year = Convert.ToInt32(Console.ReadLine());
+
+            if (year == 0)
+                break;
+
+            if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
+                Console.WriteLine("Leap Year ✅");
+            else
+                Console.WriteLine("Not a Leap Year ❌");
+        }
+    }
+}
+```
+
+---
+
+</code>
 ## 🔹 4. switch Statement
 
 ### 📘 Definition
