@@ -489,10 +489,9 @@ Console.WriteLine("Missing Number: " + (expectedSum - actualSum));
 ```
 ---
 
-## 🚀 Final Test
 
-🔗 
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/2.png" width="500"/>
+<a href="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Arrays/ArrPraQues.md">
+<b>Practice Questions</b> </a>
 
 ---
 Training material provided by **MygoMinds**
