@@ -219,7 +219,7 @@ else
     # 📅 C# Program – Leap Year Check
 
 ```csharp
-<code>
+
 using System;
 
 class LeapYearProgram
@@ -245,7 +245,7 @@ class LeapYearProgram
         Console.ReadKey();
     }
 }
-</code>
+
 ```
 
 ---
@@ -328,9 +328,7 @@ switch(variable)
         break;
 }
 ```
-## 🔄 Flowchart (switch Statement)
 
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/switch_img4.webp" width="500"/>
 
 ### 💻 Example Program
 ```
@@ -361,9 +359,7 @@ switch(day)
 
 condition ? value_if_true : value_if_false;
 
-### 🔄Flowchart switch Statement
 
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/ternary -Img5.jpg" width="500"/>
 
 ### 💻 Example Program
 ```
@@ -377,157 +373,6 @@ Console.WriteLine(result);
 ### 👉 Click The Below Link For Test2:
 🔗 <a href="https://online-test.classplusapp.com/?testId=69c659948fce2567a58a3d4b&defaultLanguage=en-US">Test1</a>
 
-## 🧠 1. What is a Loop?
-
-👉 A **Loop** is used to execute a block of code repeatedly based on a condition.
-
-### 🔹 Why Loops?
-- Reduce code repetition  
-- Improve efficiency  
-- Handle large data easily  
-
----
-
-## 🔁 2. Types of Loops in C#
-
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/2.png" width="500"/>
-
-- 🔹 `for` loop  
-- 🔹 `while` loop  
-- 🔹 `do-while` loop  
-- 🔹 `foreach` loop  
-
----
-
-## 🔹 3. for Loop
-
-👉 Used when the number of iterations is known.
-
-### 📌 Syntax:
-
-```csharp
-for(initialization; condition; increment/decrement)
-{
-    // code
-}
-```
-
----
-
-### 📌 Example: Print "MygoMinds" 5 Times
-
-```csharp
-for(int i = 1; i <= 5; i++)
-{
-    Console.WriteLine("MygoMinds");
-}
-```
-
----
-
-### 📌 Observe The Number Series
-
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/4.png" width="500"/>
-
----
-
-### 📌 Spot the Loop
-
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/5.png" width="500"/>
-
----
-
-### 📌 Match The Following
-
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/6.png" width="500"/>
-
----
-
-### 📌 Spot the Loop
-
-<img src="https://github.com/mygomindsrepo2026/CSharp/blob/main/C%23.net/Loops/images/Loops/7.png" width="500"/>
-
----
-
-## 🔹 4. while Loop
-
-👉 Used when the number of iterations is **not known**.
-
-### 📌 Syntax:
-
-```csharp
-while(condition)
-{
-    // code
-}
-```
-
-### 📌 Example:
-
-```csharp
-int i = 1;
-
-while(i <= 5)
-{
-    Console.WriteLine(i);
-    i++;
-}
-```
-
----
-
-## 🔹 5. do-while Loop
-
-👉 Executes at least **once**, even if condition is false.
-
-### 📌 Syntax:
-
-```csharp
-do
-{
-    // code
-}
-while(condition);
-```
-
-### 📌 Example:
-
-```csharp
-int i = 1;
-
-do
-{
-    Console.WriteLine(i);
-    i++;
-}
-while(i <= 5);
-```
-
----
-
-## 🔹 6. foreach Loop
-
-👉 Used to iterate through collections like arrays.
-
-### 📌 Syntax:
-
-```csharp
-foreach(type variable in collection)
-{
-    // code
-}
-```
-
-### 📌 Example:
-
-```csharp
-int[] numbers = {1, 2, 3, 4, 5};
-
-foreach(int num in numbers)
-{
-    Console.WriteLine(num);
-}
-```
 ### 👉 Click The Below Link For Test2:
 🔗 <a href="https://online-test.classplusapp.com/?testId=69c659948fce2567a58a3d4b&defaultLanguage=en-US">Test2</a>
 ---
