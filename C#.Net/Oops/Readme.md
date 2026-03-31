@@ -55,19 +55,18 @@
 ##  Core Idea
 <table>
   <tr>
-    <td width="70">
-    <p align="left">
-  
+    <td width="70%">
+
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/17.png" width="500"/>
-</p>
+
         </td>
        
-        <td width="30">
-           <p align="center">
+        <td width="30%" align="center">
+          
 <a href="https://online-test.classplusapp.com/?testId=67e16ce4732c700d72ee14c6&defaultLanguage=en-US">
-  📝 Test 1
+<b> 📝 Test 1</b>
 </a>
-</p>
+
         </td>
   </tr>
 </table>
