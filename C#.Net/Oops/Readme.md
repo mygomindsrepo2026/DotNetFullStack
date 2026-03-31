@@ -97,7 +97,7 @@
 <table>
   <tr>
    <td width="70%" align="center">
-       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/18.png" width="500"/>
+       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/18.png" width="100%"/>
     </td>
     <td width="30%" align="center">
 
@@ -112,9 +112,6 @@
 </td>
   </tr>
 </table>
-
-
-
 ---
 
 ##  Visual Learning Sections
