@@ -72,7 +72,7 @@ salary : 20000
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/63.png" width="500"/>
 
 ### 👉 Click The Below Link For Test1(Basics):
-🔗 <a href="https://online-test.classplusapp.com/?testId=69c659948fce2567a58a3d4b&defaultLanguage=en-US">Test1</a>
+🔗 <a href="https://online-test.classplusapp.com/?testId=69cb65737b16650a5e72253b&defaultLanguage=en-US">Test1</a>
 
 ---
 
@@ -171,7 +171,7 @@ jagged[1] = new int[] {4, 5};
 ```
 
 ### 👉 Click The Below Link For Test2:
-<a href="https://online-test.classplusapp.com/?testId=69c659948fce2567a58a3d4b&defaultLanguage=en-US">Test2</a>
+<a href="https://online-test.classplusapp.com/?testId=69cb660f79ac2ebe355172c0&defaultLanguage=en-US">Test2</a>
 ---
 ## 🛠️ 6. Array Operations
 
@@ -271,7 +271,7 @@ b = 5
 ```
 
 ### 👉 Click The Below Link For Test3:
-<a href="https://online-test.classplusapp.com/?testId=69c659948fce2567a58a3d4b&defaultLanguage=en-US">Test3</a>
+<a href="https://online-test.classplusapp.com/?testId=69cb66fcc18c96084624b2c5&defaultLanguage=en-US">Test3</a>
 
 ## 🎯 Final Summary
 ✔ Data represents values used in programs
@@ -488,10 +488,13 @@ foreach(int num in arr)
 Console.WriteLine("Missing Number: " + (expectedSum - actualSum));
 ```
 ---
+### 👉 Click The Below Link For Test4:
+<a href="https://online-test.classplusapp.com/?testId=69cb6652bf6704ce5d0fcf37&defaultLanguage=en-US ">Test4</a>
 
-
+---
 <a href="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Arrays/ArrPraQues.md">
 <b>Practice Questions</b> </a>
 
 ---
+
 Training material provided by **MygoMinds**
