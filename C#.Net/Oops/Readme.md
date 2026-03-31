@@ -13,8 +13,12 @@
 
 <!-- ================= INTRO IMAGE ================= -->
 <p align="left">
-   <p align="right">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+  <p align="right">
+  <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ">
+    <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="220"/>
+  </a>
+  <br/>
+  <b> OOPS Interview Questions</b>
 </p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/16.png" width="600"/>
 </p>
