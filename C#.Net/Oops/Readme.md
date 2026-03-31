@@ -46,6 +46,10 @@
 
 ##  Key Concepts of OOPS
 
+ <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
+
 | Concept | Description |
 |--------|------------|
 |  Class & Object | Blueprint and instance |
@@ -59,6 +63,9 @@
 ##  Advantages of OOPS
 
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/18.png" width="500"/>
 </p>
 
@@ -67,53 +74,108 @@
 ##  Visual Learning Sections
 
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/19.png" width="500"/>
 </p>
 
 ---
 
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/20.png" width="500"/>
 </p>
 
+---
+
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/21.png" width="500"/>
 </p>
 
+---
+
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/22.png" width="500"/>
 </p>
 
+---
+
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/23.png" width="500"/>
 </p>
+
+---
+
 <p align="left">
+ <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/24.png" width="500"/>
 </p>
 
+---
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/25.png" width="500"/>
 </p>
-
+---
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/26.png" width="500"/>
 </p>
 
+---
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/27.png" width="500"/>
 </p>
 
+---
+
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/28.png" width="500"/>
 </p>
 
+---
+
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/29.png" width="500"/>
 </p>
 
+---
+
 <p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/30.png" width="500"/>
 </p>
+
+---
 
 <p align="left">
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/31.png" width="500"/>
