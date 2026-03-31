@@ -177,11 +177,26 @@
 </p>
 
 ---
+<table>
+  <tr>
+   <td width="70%" align="center">
+       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/24.png" width="100%"/>
+    </td>
+      <td width="30%" align="center">
 
-<p align="left">
+<a href="https://www.youtube.com/shorts/JeEmPBc1XuI">
+  <img src="https://i.ytimg.com/vi/2Tg4Tl7YzxA/oar2.jpg?sqp=-oaymwEoCJwEENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAfeW0ACBb7QGFGuRw8xawBL46gKw&usqp=CCk" width="60"/>
+</a>
 
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/24.png" width="500"/>
-</p>
+<br/>
+
+<b>Oops</b>
+
+</td>
+    
+  </tr>
+</table>
+
 
 ---
 <p align="left">
