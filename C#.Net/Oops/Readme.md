@@ -1,12 +1,12 @@
 <!-- ================= HEADER LOGO ================= -->
-<p align="center">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="220"/>
+<p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
 </p>
 
 <h1 align="center">📘 Object-Oriented Programming (OOPS)</h1>
 
 <p align="center">
-  <b>Learn OOPS concepts in a structured and visual way 🚀</b>
+  <b>Learn OOPS concepts in a structured and visual way </b>
 </p>
 
 ---
@@ -18,11 +18,11 @@
 
 ---
 
-## 📌 What is OOPS?
+##  What is OOPS?
 
 **OOPS (Object-Oriented Programming System)** is a programming paradigm based on the concept of **objects**.
 
-💡 Objects contain:
+ Objects contain:
 - **Data (Variables)**
 - **Methods (Functions)**
 
@@ -33,35 +33,35 @@
 
 ---
 
-## 🧠 Core Idea
+##  Core Idea
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/17.png" width="500"/>
 </p>
 
 ---
 
-## 🎯 Key Concepts of OOPS
+##  Key Concepts of OOPS
 
 | Concept | Description |
 |--------|------------|
-| 🧱 Class & Object | Blueprint and instance |
-| 🎭 Abstraction | Hiding implementation |
-| 🔐 Encapsulation | Data protection |
-| 🧬 Inheritance | Code reusability |
-| 🔁 Polymorphism | Many forms |
+|  Class & Object | Blueprint and instance |
+|  Abstraction | Hiding implementation |
+|  Encapsulation | Data protection |
+|  Inheritance | Code reusability |
+|  Polymorphism | Many forms |
 
 ---
 
-## 🌟 Advantages of OOPS
+##  Advantages of OOPS
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/18.png" width="500"/>
 </p>
 
 ---
 
-## 📚 Visual Learning Sections
+##  Visual Learning Sections
 
 <p align="left">
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/19.png" width="500"/>
@@ -79,7 +79,7 @@
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/22.png" width="500"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/23.png" width="500"/>
 </p>
 <p align="left">
