@@ -36,12 +36,10 @@
 ##  Core Idea
 
 <p align="left">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/17.png" width="500"/>
-
-  <p align="right">
+   <p align="right">
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
 </p>
-
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/17.png" width="500"/>
 </p>
 
 ---
