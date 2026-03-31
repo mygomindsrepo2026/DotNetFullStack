@@ -21,7 +21,7 @@
 <td width="30%" align="center">
 
 <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ">
-  <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="100%"/>
+  <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="150%"/>
 </a>
 
 <br/>
