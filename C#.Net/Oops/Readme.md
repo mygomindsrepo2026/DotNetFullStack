@@ -523,8 +523,8 @@
     </td>
      <td width="30%" align="center">
 
-<a href="https://www.youtube.com/shorts/JeEmPBc1XuI">
-  <img src="https://i.ytimg.com/vi/2Tg4Tl7YzxA/oar2.jpg?sqp=-oaymwEoCJwEENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAfeW0ACBb7QGFGuRw8xawBL46gKw&usqp=CCk" width="150%"/>
+<a href="https://www.youtube.com/shorts/co3EP2TngkA">
+  <img src="https://i.ytimg.com/vi/co3EP2TngkA/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAYEUyIMVzgEi8-vrdGw_na-kzXZw&usqp=CCk" width="150%"/>
 </a>
 
 <br/>
@@ -1233,11 +1233,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/129.png" width="500"/>
-</p>
-
----
 
 <p align="left">
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/130.png" width="500"/>
