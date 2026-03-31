@@ -185,7 +185,7 @@
       <td width="30%" align="center">
 
 <a href="https://www.youtube.com/shorts/JeEmPBc1XuI">
-  <img src="https://i.ytimg.com/vi/2Tg4Tl7YzxA/oar2.jpg?sqp=-oaymwEoCJwEENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAfeW0ACBb7QGFGuRw8xawBL46gKw&usqp=CCk" width="60"/>
+  <img src="https://i.ytimg.com/vi/2Tg4Tl7YzxA/oar2.jpg?sqp=-oaymwEoCJwEENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAfeW0ACBb7QGFGuRw8xawBL46gKw&usqp=CCk" width="150%"/>
 </a>
 
 <br/>
