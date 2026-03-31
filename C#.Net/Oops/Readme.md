@@ -1,7 +1,4 @@
 <!-- ================= HEADER LOGO ================= -->
-<p align="right">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
-</p>
 
 <h1 align="center">📘 Object-Oriented Programming (OOPS)</h1>
 
@@ -41,9 +38,7 @@
 ---
 
 ##  What is OOPS?
- <p align="right">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
-</p>
+ 
 **OOPS (Object-Oriented Programming System)** is a programming paradigm based on the concept of **objects**.
 
  Objects contain:
@@ -87,9 +82,7 @@
 ##  Advantages of OOPS
 
 <p align="left">
-   <p align="right">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
-</p>
+  
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/18.png" width="500"/>
 </p>
 
