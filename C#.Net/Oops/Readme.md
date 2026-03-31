@@ -1,6 +1,6 @@
 <!-- ================= HEADER LOGO ================= -->
 
-<h1 align="center">📘 Object-Oriented Programming (OOPS)</h1>
+<h1 align="center"> Object-Oriented Programming (OOPS)</h1>
 
 <p align="center">
   <b>Learn OOPS concepts in a structured and visual way </b>
@@ -1839,13 +1839,13 @@
 
 ---
 
-## 📌 Continue Learning
+##  Continue Learning
 
 👉 Explore all images in your repository for complete understanding.
 
 ---
 
-## 🧪 OOPS Practice Tests
+##  OOPS Practice Tests
 
 <p align="center">
 
@@ -1873,22 +1873,20 @@
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 OOPS is widely used in modern programming languages:
 
-- 💜 C#
-- ☕ Java  
-- 🐍 Python  
-- ⚙️ C++  
+-  C#
+-  Java  
+-  Python  
+-  C++  
 
-✨ It helps developers build:
+ It helps developers build:
 - Maintainable systems  
 - Scalable applications  
 - Reusable components  
 
 ---
 
-<p align="center">
-  ⭐ If you found this helpful, don't forget to star the repo!
-</p>
+
