@@ -12,14 +12,19 @@
 ---
 
 <!-- ================= INTRO IMAGE ================= -->
-<p align="center">
+<p align="left">
+   <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/16.png" width="600"/>
 </p>
 
 ---
 
 ##  What is OOPS?
-
+ <p align="right">
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="100"/>
+</p>
 **OOPS (Object-Oriented Programming System)** is a programming paradigm based on the concept of **objects**.
 
  Objects contain:
