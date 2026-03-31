@@ -53,11 +53,26 @@
 ---
 
 ##  Core Idea
-
-<p align="left">
+<table>
+  <tr>
+    <td width="70">
+    <p align="left">
   
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/17.png" width="500"/>
 </p>
+        </td>
+       
+        <td width="30">
+           <p align="center">
+<a href="https://online-test.classplusapp.com/?testId=67e16ce4732c700d72ee14c6&defaultLanguage=en-US">
+  📝 Test 1
+</a>
+</p>
+        </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -683,81 +698,6 @@
 <p align="left">
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/130.png" width="500"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 📌 Continue Learning
