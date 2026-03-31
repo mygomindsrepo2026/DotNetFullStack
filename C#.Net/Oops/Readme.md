@@ -54,24 +54,28 @@
 
 ##  Core Idea
 <table>
-  <tr>
-    <td width="70%">
+<tr>
 
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/17.png" width="500"/>
+<td width="70%" align="center">
 
-        </td>
-       
-        <td width="30%" align="center">
-          
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/17.png" width="100%"/>
+
+</td>
+
+<td width="30%" align="center">
+
 <a href="https://online-test.classplusapp.com/?testId=67e16ce4732c700d72ee14c6&defaultLanguage=en-US">
-<b> 📝 Test 1</b>
+  <img src="https://img.icons8.com/color/96/test-passed.png" width="60"/>
 </a>
 
-        </td>
-  </tr>
+<br/>
+
+<b>📝 Take Test 1</b>
+
+</td>
+
+</tr>
 </table>
-
-
 
 ---
 
