@@ -1,4 +1,4 @@
-# 📘 C# Fundamentals: Arrays
+#  C# Fundamentals: Arrays
 
 ### *(MygoMinds Training Notes)*
 
@@ -6,9 +6,29 @@
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/60Arr.png" width="500"/>
 
----
+###  Arrays Practice Test Links
 
-## 🧠 1. What is Data?
+<p align="center">
+
+<a href="https://online-test.classplusapp.com/?testId=69cb65737b16650a5e72253b&defaultLanguage=en-US">
+📝 <b>Test1</b>
+</a> &nbsp; | &nbsp;
+
+<a href="https://online-test.classplusapp.com/?testId=69cb660f79ac2ebe355172c0&defaultLanguage=en-US">
+📝 <b>Test2</b>
+</a> &nbsp; | &nbsp;
+
+<a href="https://online-test.classplusapp.com/?testId=69cb66fcc18c96084624b2c5&defaultLanguage=en-US">
+📝 <b>Test3</b>
+</a> &nbsp; | &nbsp;
+
+<a href="https://online-test.classplusapp.com/?testId=69cb6652bf6704ce5d0fcf37&defaultLanguage=en-US">
+📝 <b>Test4</b>
+</a>
+
+</p>
+
+##  1. What is Data?
 
 👉 **Data** represents values that programs process and manipulate.
 Data can be categorized into **Literals** and **Objects**.
@@ -40,13 +60,11 @@ name : Ram
 salary : 20000
 ```
 
----
-
-## 📦 2. Containers in Programming
+##  2. Containers in Programming
 
 **Containers Are Used To store the data.**
 
-## 📦 Container	Description	Example
+##  Container	Description	Example
 
 | Container | Description  |            Example  |
 |-----------|----------------------|--------------|
@@ -56,9 +74,8 @@ salary : 20000
 | Collection| Group of objects     | List of employees |
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/62.png" width="500"/>
----
 
-## 🔗 3. Match the Following
+##  3. Match the Following
 
 | Example                       | Type       |
 | ----------------------------- | ---------- |
@@ -68,13 +85,11 @@ salary : 20000
 | 78,89,67,83,76                | Array      |
 | empId,name,salary             | Object     |
 | list of employees             | Collection |
-
+---
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/63.png" width="500"/>
 
 ### 👉 Click The Below Link For Test1(Basics):
-🔗 <a href="https://online-test.classplusapp.com/?testId=69cb65737b16650a5e72253b&defaultLanguage=en-US">Test1</a>
-
----
+ <a href="https://online-test.classplusapp.com/?testId=69cb65737b16650a5e72253b&defaultLanguage=en-US"><b>Test1 </b></a>
 
 ##  4. Operations on Data
 
@@ -99,9 +114,8 @@ salary : 20000
 * Palindrome
 * Armstrong Number
 * Factorial
-
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/66.png" width="500"/>
 ---
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/66.png" width="500"/>
 
 ###  Operations on Strings
 
@@ -117,22 +131,23 @@ salary : 20000
 * Compare strings
 * Reverse words
 * Search word
-
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/67.png" width="500"/>
 ---
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/67.png" width="500"/>
+
 
 ## 5. Arrays
 
 👉 An **Array** is a data structure used to store multiple values of the same type.
 
-### 📌 Example
+###  Example
 
 ```
 Values : 2 4 3 5 7 9 6  
 Index  : 0 1 2 3 4 5 6
 ```
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/71.png" width="500"/>
 ---
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/71.png" width="500"/>
+
 
 ### 🔹characteristics of Arrays
 
@@ -148,13 +163,13 @@ Index  : 0 1 2 3 4 5 6
 ### 🔹 1. Single-Dimensional Array
 **👉 Stores elements in a linear sequence.**
 
-### 📌 Example:
+###  Example:
 ```
 int[] arr = {1, 2, 3, 4, 5};
 ```
 ### 🔹 2. Multi-Dimensional Array
 **👉 Stores data in rows and columns (table format).**
-### 📌 Example:
+###  Example:
 ```
 int[,] matrix = {
     {1, 2},
@@ -163,7 +178,7 @@ int[,] matrix = {
 ```
 ### 🔹 3. Jagged Array
 **👉 Array of arrays (each row can have different sizes).**
-### 📌 Example:
+###  Example:
 ```
 int[][] jagged = new int[2][];
 jagged[0] = new int[] {1, 2, 3};
@@ -171,11 +186,14 @@ jagged[1] = new int[] {4, 5};
 ```
 
 ### 👉 Click The Below Link For Test2:
-<a href="https://online-test.classplusapp.com/?testId=69cb660f79ac2ebe355172c0&defaultLanguage=en-US">Test2</a>
+
+<a href="https://online-test.classplusapp.com/?testId=69cb660f79ac2ebe355172c0&defaultLanguage=en-US"> <b>Test2</b> </a>
+
 ---
-## 🛠️ 6. Array Operations
+##  6. Array Operations
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/68.png" width="500"/>
+
 ### Given Array:
 
 ```
@@ -207,9 +225,10 @@ jagged[1] = new int[] {4, 5};
 ---
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/69.png" width="500"/>
 
-## 🔍 7. Searching in Arrays
+##  7. Searching in Arrays
 
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/70.png" width="500"/>
+
 ### 🔹 Maximum Element
 ```
 Max = 9
@@ -228,16 +247,16 @@ Min = 2
 Middle = 5
 ```
 ---
-## 🔎 8. Searching Techniques
+##  8. Searching Techniques
 
 ### 🔹 Linear Search
 👉 Checks each element sequentially.
 ### 🔹 Binary Search
 👉 Divides array into halves for faster searching.
-
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/68.png" width="500"/>
 ---
-## 🔃 9. Sorting in Arrays
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/68.png" width="500"/>
+
+##  9. Sorting in Arrays
 
 👉 Sorting arranges elements in order.
 
@@ -246,7 +265,7 @@ Middle = 5
 * Ascending Order
 * Descing Order
 
-### 📌 Example
+###  Example
 **Ascending:**
 ```
 2 3 4 5 6 7 9
@@ -257,7 +276,7 @@ Middle = 5
 ```
 ## 🔁 10. Swapping Elements
 👉 Swapping means exchanging two values.
-### 📌 Example
+###  Example
 **Before Swap**
 ```
 a = 5  
@@ -271,13 +290,13 @@ b = 5
 ```
 
 ### 👉 Click The Below Link For Test3:
-<a href="https://online-test.classplusapp.com/?testId=69cb66fcc18c96084624b2c5&defaultLanguage=en-US">Test3</a>
+<a href="https://online-test.classplusapp.com/?testId=69cb66fcc18c96084624b2c5&defaultLanguage=en-US"> <b>Test3 </b></a>
 
-## 🎯 Final Summary
-✔ Data represents values used in programs
-✔ Containers store data (Variable, Array, Object, Collection)
-✔ Arrays store multiple similar values
-✔ Index starts from 0
+##  Final Summary
+* Data represents values used in programs
+* Containers store data (Variable, Array, Object, Collection)
+* Arrays store multiple similar values
+* Index starts from 0
 ### Arrays Support:
 * Searching
 * Sorting
@@ -426,8 +445,8 @@ for(int i = 0; i < arr.Length; i++)
 }
 ```
 ### 1️⃣1️⃣ Linear Search
-📘 Definition
-👉 **Linear Search** is a searching technique where each element in the array is checked one by one until the required element is found.
+ Definition
+ **Linear Search** is a searching technique where each element in the array is checked one by one until the required element is found.
 
 ```
 int key = 20;
@@ -489,7 +508,7 @@ Console.WriteLine("Missing Number: " + (expectedSum - actualSum));
 ```
 ---
 ### 👉 Click The Below Link For Test4:
-<a href="https://online-test.classplusapp.com/?testId=69cb6652bf6704ce5d0fcf37&defaultLanguage=en-US ">Test4</a>
+<a href="https://online-test.classplusapp.com/?testId=69cb6652bf6704ce5d0fcf37&defaultLanguage=en-US "><b>Test4</b></a>
 
 ---
 ## Practice Coding Questions
