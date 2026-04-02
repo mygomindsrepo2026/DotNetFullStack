@@ -1877,11 +1877,11 @@
 
 <table>
   <tr>
-    <td width=70% align="center">
-      <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/170.png" width="500"/>
+    <td width="70%" align="center">
+      <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/170.png" width="100%"/>
     </td>
 
-        <td width="30%" align="center">
+   <td width="30%" align="center">
 
 <a href="https://online-test.classplusapp.com/?testId=67fcb79d1bc4afb53c2b1207&defaultLanguage=en-US">
   <img src="https://img.icons8.com/color/96/test-passed.png" width="60"/>
@@ -1894,10 +1894,6 @@
 </td>
   </tr>
 </table>
-  
-
-  
-
 
 ---
 
@@ -1909,7 +1905,7 @@
 <table>
   <tr>
     <td width=70% align="center">
-       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/172.png" width="500"/>
+       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/172.png" width="100%"/>
     </td>
      <td width="30%" align="center">
 
@@ -1924,7 +1920,6 @@
 </td>
   </tr>
 </table>
-
 
 
 ---
@@ -1954,7 +1949,7 @@
 ---
 <table>
   <tr>
-    <td>
+    <td width="70%" align="center">
        <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/180.png" width="500"/>
     </td>
 
