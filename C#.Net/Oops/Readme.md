@@ -663,7 +663,6 @@
 
 <b>Mygominds</b>
 
-
 </td>
 
   </tr>
@@ -690,13 +689,10 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>   
   
-
 ---
 
 <p align="left">
@@ -719,15 +715,11 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
  
- 
-
----
+ ---
 
 <p align="left">
  
@@ -749,15 +741,10 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
   
-  
- 
-
 ---
 
 <p align="left">
@@ -783,7 +770,6 @@
 </td>
   </tr>
 </table>
-  
 
 ---
 
@@ -807,12 +793,9 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
-  
 
 ---
 
@@ -835,8 +818,6 @@
 <br/>
 
 <b>Mygominds</b>
-
-
 
 </td>
   </tr>
@@ -865,13 +846,10 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
   
-
 ---
 
 <p align="left">
@@ -892,9 +870,6 @@
 <br/>
 
 <b>Mygominds</b>
-
-
-
 </td>
   </tr>
 </table>
@@ -920,8 +895,6 @@
 <br/>
 
 <b>Mygominds</b>
-
-
 
 </td>
   </tr>
@@ -949,9 +922,6 @@
 <br/>
 
 <b>Mygominds</b>
-
-
-
 </td>
   </tr>
 </table>
@@ -978,8 +948,6 @@
 <br/>
 
 <b>Mygominds</b>
-
-
 
 </td>
   </tr>
@@ -1094,8 +1062,6 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
@@ -1122,8 +1088,6 @@
 <br/>
 
 <b>Mygominds</b>
-
-
 
 </td>
   </tr>
@@ -1152,8 +1116,6 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
@@ -1167,26 +1129,22 @@
 </p>
 
 ---
+
 <table>
   <tr>
     <td width="70%" align="center">
       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/165.png" width="100%"/>
     </td>
     <td width="30%" align="center">
-<<<<<<< HEAD
+      
 <a href="https://online-test.classplusapp.com/?testId=67e16ce4732c700d72ee14c6&defaultLanguage=en-US">
   <img src="https://img.icons8.com/color/96/test-passed.png" width="60"/>
-=======
-<a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/kmgm.png" width="60"/>
->>>>>>> d657c4c (Add SpReadme)
+
 </a>
 
 <br/>
 
-<b>📝 Take Test 11</b>
-
-
+<b>📝 Take Test 13</b>
 
 </td>
   </tr>
@@ -1244,8 +1202,6 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
@@ -1273,8 +1229,6 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
@@ -1295,21 +1249,13 @@
       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/89.png" width="100%"/>
     </td>
     <td width="30%" align="center">
-<<<<<<< HEAD
+
 <a href="https://online-test.classplusapp.com/?testId=68011067c74c8b93a5e1b887&defaultLanguage=en-US">
   <img src="https://img.icons8.com/color/96/test-passed.png" width="60"/>
-=======
-<a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/kmgm.png" width="60"/>
->>>>>>> d657c4c (Add SpReadme)
 </a>
-
 <br/>
 
-<b>📝 Take Test 12</b>
-
-
-
+<b>📝 Take Test 14</b>
 
 </td>
   </tr>
@@ -1356,19 +1302,15 @@
       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/93.png" width="100%"/>
     </td>
     <td width="30%" align="center">
-<<<<<<< HEAD
       
 <a href="https://online-test.classplusapp.com/?testId=67e2c4d18436a74bf55b79e2&defaultLanguage=en-US">
   <img src="https://img.icons8.com/color/96/test-passed.png" width="60"/>
-=======
-<a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/kmgm.png" width="60"/>
->>>>>>> d657c4c (Add SpReadme)
+
 </a>
 
 <br/>
 
-<b>📝 Take Test 13</b>
+<b>📝 Take Test 15</b>
 
 
 </td>
@@ -1470,6 +1412,7 @@
 </p>
 
 ---
+
 <table>
   <tr>
     <td width="70%" align="center">
@@ -1678,13 +1621,12 @@
 
 <br/>
 
-<b>📝 Take Test 13</b>
+<b>📝 Take Test 16</b>
 
 </td>
   </tr>
 </table>
   
-
 ---
 
 <p align="left">
@@ -1706,13 +1648,10 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
   
-
 ---
 
 <p align="left">
@@ -1734,13 +1673,10 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
   </tr>
 </table>
   
-
 ---
 
 <p align="left">
@@ -1762,7 +1698,7 @@
 
 <br/>
 
-<b>📝 Take Test 14 </b>
+<b>📝 Take Test 17 </b>
 
 </td>
   </tr>
@@ -1900,12 +1836,7 @@
 </a>
 
 <br/>
-
-<<<<<<< HEAD
-<b>📝 Take Test 14</b>
-=======
-<b>📝 Take Test 15</b>
->>>>>>> d657c4c (Add SpReadme)
+<b>📝 Take Test 18</b>
 
 </td>
   </tr>
@@ -1918,6 +1849,7 @@
 </p>
 
 ---
+
 <table>
   <tr>
     <td width=70% align="center">
@@ -1931,11 +1863,8 @@
 
 <br/>
 
-<<<<<<< HEAD
-<b>📝 Take Test 15</b>
-=======
-<b>📝 Take Test 16</b>
->>>>>>> d657c4c (Add SpReadme)
+<b>📝 Take Test 19</b>
+
 
 </td>
   </tr>
@@ -1980,11 +1909,11 @@
 
 <br/>
 
-<<<<<<< HEAD
-<b>📝 Take Test 16</b>
-=======
-<b>📝 Take Test 17</b>
->>>>>>> d657c4c (Add SpReadme)
+
+
+
+<b>📝 Take Test 20</b>
+
 
 </td>
   </tr>
