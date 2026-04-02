@@ -1,4 +1,3 @@
-
 <!-- ================= INTRO IMAGE ================= -->
 <table>
 <tr>
@@ -31,7 +30,6 @@
 
 ---
 
-
 <p align="left">
   
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/197.png" width="500"/>
@@ -55,22 +53,19 @@
 
 ---
 
-
 <p align="left">
   
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/200.png" width="500"/>
 </p>
 
 ---
-
-
+    
 <p align="left">
   
   <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/201.png" width="500"/>
 </p>
 
 ---
-
 
 <p align="left">
   
