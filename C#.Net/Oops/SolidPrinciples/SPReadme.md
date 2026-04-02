@@ -26,7 +26,7 @@
 
 <p align="left">
   
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/196sp.png" width="500"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/196SP.png" width="500"/>
 </p>
 
 ---
