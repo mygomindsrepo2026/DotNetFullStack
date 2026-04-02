@@ -157,7 +157,7 @@
      <td width="30%" align="center">
 
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="30"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -387,7 +387,6 @@
 
 <b>📝 Take Test 6</b>
 
-<b>Oops</b>
 
 </td>
   </tr>
@@ -416,7 +415,7 @@
 <br/>
 
 <b>📝 Take Test 7</b>
-<b>Oops</b>
+
 
 </td>
   </tr>
@@ -446,8 +445,6 @@
 
 <b>📝 Take Test 8</b>
 
-<b>Mygominds</b>
-
 </td>
   </tr>
 </table>
@@ -476,8 +473,6 @@
 
 <b>📝 Take Test 9</b>
 
-<b>Mygominds</b>
-
 </td>
   </tr>
 </table>
@@ -505,8 +500,6 @@
 <br/>
 
 <b>📝 Take Test 10</b>
-
-<b>Mygominds</b>
 
 </td>
   </tr>
@@ -563,7 +556,7 @@
 
 <b>Mygominds</b>
 
-<b>Oops</b>
+
 
 </td>
   </tr>
@@ -592,8 +585,6 @@
 
 <b>Mygominds</b>
 
-
-
 </td>
 
 </td>
@@ -616,13 +607,11 @@
      <td width="30%" align="center">
 
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
 <b>Mygominds</b>
-
-
 
 </td>
 
@@ -645,7 +634,7 @@
      <td width="30%" align="center">
 
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -673,7 +662,7 @@
     </td>
 <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -700,7 +689,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -729,7 +718,7 @@
     </td>
      <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -759,7 +748,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -790,7 +779,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -817,7 +806,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -846,7 +835,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -875,7 +864,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -903,7 +892,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -931,7 +920,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -960,7 +949,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -989,7 +978,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1018,7 +1007,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1046,7 +1035,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1075,7 +1064,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1104,7 +1093,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1133,7 +1122,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1162,7 +1151,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1190,7 +1179,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1218,7 +1207,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1247,7 +1236,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1276,7 +1265,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1305,7 +1294,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1334,7 +1323,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1363,7 +1352,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1391,7 +1380,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1420,7 +1409,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1448,7 +1437,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1476,7 +1465,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1503,7 +1492,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1531,7 +1520,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1560,7 +1549,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1588,7 +1577,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1616,7 +1605,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1643,7 +1632,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1671,7 +1660,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1699,7 +1688,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1727,7 +1716,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1755,7 +1744,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1783,7 +1772,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1811,7 +1800,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MNG.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MNG.png" width="60"/>
 </a>
 <br/>
 
@@ -1839,7 +1828,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="50"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
@@ -1868,7 +1857,7 @@
     </td>
     <td width="30%" align="center">
 <a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="30"/>
+  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/MGM.png" width="60"/>
 </a>
 <br/>
 
