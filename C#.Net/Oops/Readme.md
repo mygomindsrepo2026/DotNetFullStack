@@ -185,13 +185,13 @@
     </td>
       <td width="30%" align="center">
 
-<a href="https://www.youtube.com/shorts/JeEmPBc1XuI">
-  <img src="https://i.ytimg.com/vi/2Tg4Tl7YzxA/oar2.jpg?sqp=-oaymwEoCJwEENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAfeW0ACBb7QGFGuRw8xawBL46gKw&usqp=CCk" width="150%"/>
+<a href="https://www.youtube.com/shorts/59dU7P66xkA">
+  <img src="https://i.ytimg.com/vi/59dU7P66xkA/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLBT_0Dp0kCBpGv54kN245MJhdJW-Q&usqp=CCk" width="150%"/>
 </a>
 
 <br/>
 
-<b>Oops</b>
+<b>Kannababu</b>
 
 </td>
     
@@ -244,13 +244,13 @@
     </td>
      <td width="30%" align="center">
 
-<a href="https://www.youtube.com/shorts/59dU7P66xkA">
-  <img src="https://i.ytimg.com/vi/59dU7P66xkA/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLBT_0Dp0kCBpGv54kN245MJhdJW-Q&usqp=CCk" width="150%"/>
+<a href="https://www.youtube.com/shorts/JeEmPBc1XuI">
+  <img src="https://i.ytimg.com/vi/2Tg4Tl7YzxA/oar2.jpg?sqp=-oaymwEoCJwEENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAfeW0ACBb7QGFGuRw8xawBL46gKw&usqp=CCk" width="150%"/>
 </a>
 
 <br/>
 
-<b>Kannababu</b>
+<b>Oops</b>
 
 </td>
   </tr>
