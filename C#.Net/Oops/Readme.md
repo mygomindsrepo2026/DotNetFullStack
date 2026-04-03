@@ -29,8 +29,25 @@
 
 ---
 
+## 🚀 OOPS Test Series – Learn, Practice & Earn Rewards 🎯
+
 <p align="center">
-  <img src="https://img.shields.io/badge/%20OOPS-Test%20Series-brightgreen?style=for-the-badge"/>
+<b>Welcome to MygoMinds Test Series</b> 
+</p>
+
+<p align="center">
+✨ Practice real-time OOPS questions  
+📝 Take multiple tests absolutely <b>FREE</b>  
+📊 Track your performance  
+🎁 Get <b>Special Discounts & Offers</b> on our premium courses  
+</p>
+
+<p align="center">
+🔥 <b>Write Tests → Score High → Unlock Course Offers</b> 🔥
+</p>
+
+<p align="center">
+👇 Click any test below & start now 👇
 </p>
 
 ---
