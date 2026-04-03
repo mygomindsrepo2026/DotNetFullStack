@@ -1615,11 +1615,12 @@
    <a href="https://online-test.classplusapp.com/?testId=69ccca3521597206d9436700&defaultLanguage=en-US">
      <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
   </a>
-<br/>
       
-<b>📝 Take Test 20</b>  
+<br/>
+    
+<b>📝 Take Test 20</b>
 
-    </td>
+</td>
   </tr>
 </table>
 
