@@ -513,11 +513,9 @@
        <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/58.png" width="100%"/>
     </td>
 <td width="30%" align="center">
-<a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/kmgm.png" width="60"/>
-</a>
-<br/>
-<b>Mygominds</b>
+ <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/kmgm.png" width="60"/>
+       <br/>
+<a href="https://www.mygominds.com/"><b>Mygominds</b></a>
 </td>
   </tr>
 </table>
