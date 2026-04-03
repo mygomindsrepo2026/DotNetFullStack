@@ -154,12 +154,11 @@
 <a href="https://www.mygominds.com/">
 <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge"/>
 </a>
-<!----
-<a href="Info@mygominds.com">
+
+<a href="mailto:info@mygominds.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
 </a>
----->
-📧 Email: info@mygominds.com
+
 <a href="https://www.youtube.com/results?search_query=mygominds">
 <img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge"/>
 </a>
