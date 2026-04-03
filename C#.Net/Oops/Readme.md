@@ -1,9 +1,9 @@
 <!-- ================= HEADER LOGO ================= -->
 
 <h1 align="center"> Object-Oriented Programming (OOPS)</h1>
-<p align="center">
+<h4 align="center">
   <b>Learn OOPS concepts in a structured and visual way </b>
-</p>
+</h4>
 
 ---
 
@@ -24,15 +24,12 @@
 </table>
 
 ---
-<h2 align="center" style="color:green;"> OOPS Test Series</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OOPS-Test%20Series-green?style=for-the-badge"/>
-</p>
+<h2 align="center" style="color:green;"> OOPS Test Series</h2>
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠%20OOPS-Test%20Series-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%20OOPS-Test%20Series-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
