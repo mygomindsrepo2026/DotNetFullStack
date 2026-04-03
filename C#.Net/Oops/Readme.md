@@ -102,7 +102,7 @@
     <td width="30%" align="center">
 
 <a href="https://online-test.classplusapp.com/?testId=69ce0976e3f3da8192de8aca&defaultLanguage=en">
-  <img src="https://img.icons8.com/color/96/test-passed.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
 </a>
 
 <br/>
@@ -213,7 +213,7 @@
      <td width="30%" align="center">
 
 <a href="https://online-test.classplusapp.com/?testId=69ccc9c21771cc614cb51387&defaultLanguage=en-US">
-  <img src="https://img.icons8.com/color/96/test-passed.png" width="60"/>
+  <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
 </a>
 
 <br/>
@@ -1893,19 +1893,21 @@
 </p>
 
 ---
+
 <table>
   <tr>
     <td width="70%" align="center">
        <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/180.png" width="500"/>
     </td>
+    
     <td width="30%" align="center">
-    
-  <a href="https://online-test.classplusapp.com/?testId=69ccca3521597206d9436700&defaultLanguage=en-US">
-    
-  <img src="https://img.icons8.com/color/96/test-passed.png" width="60"/>
-</a>
+   <a href="https://online-test.classplusapp.com/?testId=69ccca3521597206d9436700&defaultLanguage=en-US">
+     <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
+  </a>
 <br/>
+
 <b>📝 Take Test 20</b>  
+
     </td>
   </tr>
 </table>
