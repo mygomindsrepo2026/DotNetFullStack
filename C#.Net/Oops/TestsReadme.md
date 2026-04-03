@@ -1,13 +1,24 @@
-## 🎯 Click Below to Start OOPS Test Series
+<p align="center">
+  <img src="https://img.shields.io/badge/%20MygoMinds-OOPS%20Test%20Series-brightgreen?style=for-the-badge"/>
+</p>
+
+---
+
+##  OOPS Test Series – Learn, Practice & Get Rewards 🎯
 
 <p align="center">
-🚀 <b>MygoMinds</b> brings you a complete <b>OOPS Practice Test Series</b> designed for students & beginners.
+<b>Welcome to MygoMinds</b> 
 </p>
 
 <p align="center">
-📝 Attempt tests for <b>FREE</b>  
-🎯 Improve your coding & concept skills  
-🎁 <b>Get Exclusive Offers</b> on our Full Stack Courses after completion  
+ Practice real-time OOPS questions  
+ Take tests completely <b>FREE</b>  
+ Improve your coding & interview skills  
+ Get <b>Exclusive Offers</b> on Full Stack Courses  
+</p>
+
+<p align="center">
+🔥 <b>Write Tests → Score High → Unlock Course Offers</b> 🔥
 </p>
 
 <p align="center">
@@ -37,21 +48,9 @@
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://online-test.classplusapp.com/?testId=67e2c4d18436a74bf55b79e2&defaultLanguage=en-US">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="90"/>
-</a>
-<br>
-<h4>Test 3 - Class & Object</h4>
-</td>
+<td align="center"><a href="https://online-test.classplusapp.com/?testId=67e2c4d18436a74bf55b79e2&defaultLanguage=en-US"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="90"/></a><br><h4>Test 3 - Class & Object</h4></td>
 
-<td align="center">
-<a href="https://online-test.classplusapp.com/?testId=69ccc8d6af35a2e5a314f527&defaultLanguage=en-US">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="90"/>
-</a>
-<br>
-<h4>Test 4 - Types of Methods</h4>
-</td>
+<td align="center"><a href="https://online-test.classplusapp.com/?testId=69ccc8d6af35a2e5a314f527&defaultLanguage=en-US"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="90"/></a><br><h4>Test 4 - Types of Methods</h4></td>
 </tr>
 
 <tr>
@@ -103,5 +102,47 @@
 </tr>
 
 </table>
+
+---
+
+## 🎉 Great Effort!
+
+👏 Thank you for attempting the OOPS Test Series  
+
+ Keep practicing to master your concepts  
+ <b>All the Best</b> for your career & interviews  
+
+ Complete more tests and unlock <b>exclusive course offers</b> from <b>MygoMinds</b>!
+
+---
+
+## 📞 Contact MygoMinds
+
+<p align="center">
+
+<a href="tel:8885302122">
+<img src="https://img.shields.io/badge/Call-8885302122-green?style=for-the-badge"/>
+</a>
+
+<a href="https://www.mygominds.com/">
+<img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:info@mygominds.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+
+<a href="https://www.youtube.com/results?search_query=mygominds">
+<img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+##  Keep Learning with MygoMinds
+
+ Practice daily • Build skills • Achieve your goals  
+ <b>Start your journey today!</b>
 
 ---
