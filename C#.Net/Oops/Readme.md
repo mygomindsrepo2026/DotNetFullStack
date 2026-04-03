@@ -1611,7 +1611,6 @@
     <td width="70%" align="center">
        <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/180.png" width="500"/>
     </td>
-    
     <td width="30%" align="center">
    <a href="https://online-test.classplusapp.com/?testId=69ccca3521597206d9436700&defaultLanguage=en-US">
      <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
