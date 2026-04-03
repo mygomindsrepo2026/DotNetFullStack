@@ -83,11 +83,7 @@
     <td width="30%" align="center">
        <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
 <br/>
-<a href="https://online-test.classplusapp.com/?testId=69ce0976e3f3da8192de8aca&defaultLanguage=en">
-  
-<b>📝 Take Test 1</b>
- 
-</a>
+<a href="https://online-test.classplusapp.com/?testId=69ce0976e3f3da8192de8aca&defaultLanguage=en"><b>📝 Take Test 1</b></a>
 
 </td>
   </tr>
@@ -175,11 +171,9 @@
        <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/26.png" width="100%"/>
     </td>
      <td width="30%" align="center">
-<a href="https://online-test.classplusapp.com/?testId=69ccc9c21771cc614cb51387&defaultLanguage=en-US">
-  <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
-</a>
-<br/>
-<b>📝 Take Test 2</b>
+        <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
+       <br/>
+<a href="https://online-test.classplusapp.com/?testId=69ccc9c21771cc614cb51387&defaultLanguage=en-US"><b>📝 Take Test 2</b></a>
 </td>
   </tr>
 </table>
