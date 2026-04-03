@@ -29,7 +29,7 @@
 
 ---
 
-##  OOPS Test Series – Learn, Practice & Earn Rewards 🎯
+##  OOPS Test Series – Learn, Practice & Earn Rewards 
 
 <p align="center">
 <b>Welcome to MygoMinds Test Series</b> 
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-🔥 <b>Write Tests → Score High → Unlock Course Offers</b> 🔥
+ <b>Write Tests → Score High → Unlock Course Offers</b> 
 </p>
 
 <p align="center">
