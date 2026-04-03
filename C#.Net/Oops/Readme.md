@@ -1582,11 +1582,7 @@
 
 ---
 
-##  Continue Learning
 
-👉 Explore all images in your repository for complete understanding.
-
----
 
 ##  OOPS Practice Tests
 
