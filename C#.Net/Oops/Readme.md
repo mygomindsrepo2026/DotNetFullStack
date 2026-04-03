@@ -84,7 +84,7 @@
        <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
 <br/>
 <a href="https://online-test.classplusapp.com/?testId=69ce0976e3f3da8192de8aca&defaultLanguage=en">
-  <br/>
+  
 <b>📝 Take Test 1</b>
  
 </a>
