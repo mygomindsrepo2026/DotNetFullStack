@@ -4,7 +4,7 @@
 
 ---
 
-##  OOPS Test Series – Learn, Practice & Get Rewards 🎯
+##  OOPS Test Series – Learn, Practice & Get Rewards 
 
 <p align="center">
 <b>Welcome to MygoMinds</b> 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-🔥 <b>Write Tests → Score High → Unlock Course Offers</b> 🔥
+ <b>Write Tests → Score High → Unlock Course Offers</b> 
 </p>
 
 <p align="center">
@@ -105,9 +105,9 @@
 
 ---
 
-## 🎉 Great Effort!
+##  Great Effort!
 
-👏 Thank you for attempting the OOPS Test Series  
+ Thank you for attempting the OOPS Test Series  
 
  Keep practicing to master your concepts  
  <b>All the Best</b> for your career & interviews  
