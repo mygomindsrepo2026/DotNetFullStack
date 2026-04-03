@@ -1,3 +1,30 @@
+<!-- ================= HEADER LOGO ================= -->
+
+<h1 align="center"> Object-Oriented Programming (OOPS)</h1>
+<h4 align="center">
+  <b>Learn OOPS concepts in a structured and visual way </b>
+</h4>
+
+---
+
+<!-- ================= INTRO IMAGE ================= -->
+<table>
+<tr>
+<td width="70%">
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/16.png" width="100%"/>
+</td>
+<td width="30%" align="center">
+<a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ">
+  <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="150%"/>
+</a>
+<br/>
+<b> OOPS Interview Questions</b>
+</td>
+</tr>
+</table>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/%20MygoMinds-OOPS%20Test%20Series-brightgreen?style=for-the-badge"/>
 </p>
