@@ -17,7 +17,10 @@
 </td>
 <td width="30%" align="center">
 <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ">
+  <!---
   <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="150%"/>
+  --->
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="150%"/>
 <br>
 </a>
 <br/>
