@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="70%">
-<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/16.png" width="100%"/>
+<img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/234.jpeg" width="100%"/>
 </td>
 <td width="30%" align="center">
 <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ">
