@@ -24,65 +24,194 @@
 </table>
 
 ---
-
 <h2 align="center" style="color:green;"> OOPS Test Series</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OOPS-Test%20Series-green?style=for-the-badge"/>
+</p>
 
 ---
 
 <table align="center" width="100%">
 
 <tr>
+
 <td align="center" width="25%">
+<a href="https://online-test.classplusapp.com/?testId=69ce0976e3f3da8192de8aca&defaultLanguage=en">
+<img src="https://img.icons8.com/color/96/code.png"/>
+</a>
 <br>
-<h3><a href="https://online-test.classplusapp.com/?testId=69ce0976e3f3da8192de8aca&defaultLanguage=en">Basic OOPS</a></h3>
-<br>
+<h4>Test 1 - Basic OOPS</h4>
 </td>
 
 <td align="center" width="25%">
+<a href="https://online-test.classplusapp.com/?testId=67e16ce4732c700d72ee14c6&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/variable.png"/>
+</a>
 <br>
-<h3><a href="https://online-test.classplusapp.com/?testId=67e16ce4732c700d72ee14c6&defaultLanguage=en-US">Variables & Methods</a></h3>
-<br>
+<h4>Test 2 - Variables & Methods</h4>
 </td>
 
 <td align="center" width="25%">
+<a href="https://online-test.classplusapp.com/?testId=67e2c4d18436a74bf55b79e2&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/class.png"/>
+</a>
 <br>
-<h3><a href="https://online-test.classplusapp.com/?testId=67e2c4d18436a74bf55b79e2&defaultLanguage=en-US">Class & Object</a></h3>
-<br>
+<h4>Test 3 - Class & Object</h4>
 </td>
 
 <td align="center" width="25%">
+<a href="https://online-test.classplusapp.com/?testId=69ccc8d6af35a2e5a314f527&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/method.png"/>
+</a>
 <br>
-<h3><a href="https://online-test.classplusapp.com/?testId=69ccc8d6af35a2e5a314f527&defaultLanguage=en-US">Types of Methods</a></h3>
-<br>
+<h4>Test 4 - Types of Methods</h4>
 </td>
+
 </tr>
 
 <tr>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=69ce0b02d66b996f0c7336af&defaultLanguage=en">Method-1</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=67efd481cf3f7315352c16c1&defaultLanguage=en-US">Method-2</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=67ebf60258510b94ffd42bef&defaultLanguage=en-US">Method-3</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=67e40e1e7eeefb2239b1eae8&defaultLanguage=en-US">Method-4</a></h3><br></td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=69ce0b02d66b996f0c7336af&defaultLanguage=en">
+<img src="https://img.icons8.com/color/96/method.png"/>
+</a>
+<br>
+<h4>Test 5 - Method 1</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=67efd481cf3f7315352c16c1&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/method.png"/>
+</a>
+<br>
+<h4>Test 6 - Method 2</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=67ebf60258510b94ffd42bef&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/method.png"/>
+</a>
+<br>
+<h4>Test 7 - Method 3</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=67e40e1e7eeefb2239b1eae8&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/method.png"/>
+</a>
+<br>
+<h4>Test 8 - Method 4</h4>
+</td>
+
 </tr>
 
 <tr>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=69ccc96c0eb3565f7f5741e1&defaultLanguage=en-US">Types of Variables</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=69cbb074befeabbb46247fa8&defaultLanguage=en-US">Variable & Method-1</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=69cbb0fa2f0830c8a913507d&defaultLanguage=en-US">Variable & Method-2</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=69ccc9c21771cc614cb51387&defaultLanguage=en-US">Abstraction-1</a></h3><br></td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=69ccc96c0eb3565f7f5741e1&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/variable.png"/>
+</a>
+<br>
+<h4>Test 9 - Types of Variables</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=69cbb074befeabbb46247fa8&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/variable.png"/>
+</a>
+<br>
+<h4>Test 10 - Variable & Method 1</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=69cbb0fa2f0830c8a913507d&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/variable.png"/>
+</a>
+<br>
+<h4>Test 11 - Variable & Method 2</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=69ccc9c21771cc614cb51387&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/abstraction.png"/>
+</a>
+<br>
+<h4>Test 12 - Abstraction 1</h4>
+</td>
+
 </tr>
 
 <tr>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=69ccca3521597206d9436700&defaultLanguage=en-US">Abstraction-2</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=69ce0d17cddc736fc18fdcf0&defaultLanguage=en">Encapsulation-1</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=69ce0d4d24136f66f00f4b6a&defaultLanguage=en">Encapsulation-2</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=68011047c74c8b9211e1b883&defaultLanguage=en-US">Inheritance-1</a></h3><br></td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=69ccca3521597206d9436700&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/abstraction.png"/>
+</a>
+<br>
+<h4>Test 13 - Abstraction 2</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=69ce0d17cddc736fc18fdcf0&defaultLanguage=en">
+<img src="https://img.icons8.com/color/96/lock.png"/>
+</a>
+<br>
+<h4>Test 14 - Encapsulation 1</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=69ce0d4d24136f66f00f4b6a&defaultLanguage=en">
+<img src="https://img.icons8.com/color/96/lock.png"/>
+</a>
+<br>
+<h4>Test 15 - Encapsulation 2</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=68011047c74c8b9211e1b883&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/inheritance.png"/>
+</a>
+<br>
+<h4>Test 16 - Inheritance 1</h4>
+</td>
+
 </tr>
 
 <tr>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=68011055c74c8b11cbe1b885&defaultLanguage=en-US">Inheritance-2</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=67fcb79d1bc4afb53c2b1207&defaultLanguage=en-US">Polymorphism-1</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=6801b8841bc4af0efc2b1546&defaultLanguage=en-US">Polymorphism-2</a></h3><br></td>
-<td align="center"><br><h3><a href="https://online-test.classplusapp.com/?testId=68011067c74c8b93a5e1b887&defaultLanguage=en-US">Constructor</a></h3><br></td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=68011055c74c8b11cbe1b885&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/inheritance.png"/>
+</a>
+<br>
+<h4>Test 17 - Inheritance 2</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=67fcb79d1bc4afb53c2b1207&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/polymorphism.png"/>
+</a>
+<br>
+<h4>Test 18 - Polymorphism 1</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=6801b8841bc4af0efc2b1546&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/polymorphism.png"/>
+</a>
+<br>
+<h4>Test 19 - Polymorphism 2</h4>
+</td>
+
+<td align="center">
+<a href="https://online-test.classplusapp.com/?testId=68011067c74c8b93a5e1b887&defaultLanguage=en-US">
+<img src="https://img.icons8.com/color/96/constructor.png"/>
+</a>
+<br>
+<h4>Test 20 - Constructor</h4>
+</td>
+
 </tr>
 
 </table>
