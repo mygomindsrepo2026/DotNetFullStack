@@ -1583,32 +1583,36 @@
 ---
 
 
+<details>
+  <summary> OOPS Practice Tests (Click to Expand)</summary>
 
-##  OOPS Practice Tests
+  <br>
 
-<p align="center">
+  <p align="center">
 
-<a href="https://online-test.classplusapp.com/?testId=67e16ce4732c700d72ee14c6&defaultLanguage=en-US">
-  📝 Test 1
-</a> &nbsp; | &nbsp;
+  <a href="https://online-test.classplusapp.com/?testId=67e16ce4732c700d72ee14c6&defaultLanguage=en-US">
+    📝 Test 1
+  </a> &nbsp; | &nbsp;
 
-<a href="https://online-test.classplusapp.com/?testId=67e2c4d18436a74bf55b79e2&defaultLanguage=en-US">
-  📝 Test 2
-</a> &nbsp; | &nbsp;
+  <a href="https://online-test.classplusapp.com/?testId=67e2c4d18436a74bf55b79e2&defaultLanguage=en-US">
+    📝 Test 2
+  </a> &nbsp; | &nbsp;
 
-<a href="https://online-test.classplusapp.com/?testId=67e40e1e7eeefb2239b1eae8&defaultLanguage=en-US">
-  📝 Test 3
-</a> &nbsp; | &nbsp;
+  <a href="https://online-test.classplusapp.com/?testId=67e40e1e7eeefb2239b1eae8&defaultLanguage=en-US">
+    📝 Test 3
+  </a> &nbsp; | &nbsp;
 
-<a href="https://online-test.classplusapp.com/?testId=67ebf60258510b94ffd42bef&defaultLanguage=en-US">
-  📝 Test 4
-</a> &nbsp; | &nbsp;
+  <a href="https://online-test.classplusapp.com/?testId=67ebf60258510b94ffd42bef&defaultLanguage=en-US">
+    📝 Test 4
+  </a> &nbsp; | &nbsp;
 
-<a href="https://online-test.classplusapp.com/?testId=68011067c74c8b93a5e1b887&defaultLanguage=en-US">
-  📝 Test 5
-</a>
+  <a href="https://online-test.classplusapp.com/?testId=68011067c74c8b93a5e1b887&defaultLanguage=en-US">
+    📝 Test 5
+  </a>
 
-</p>
+  </p>
+
+</details>
 
 ---
 
