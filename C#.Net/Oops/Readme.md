@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center" style="color:green;">🧠 OOPS Test Series</h2>
+<h2 align="center" style="color:green;"> OOPS Test Series</h2>
 
 ---
 
