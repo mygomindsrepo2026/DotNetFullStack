@@ -16,18 +16,13 @@
 <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/234.jpeg" width="100%"/>
 </td>
 <td width="30%" align="center">
-<a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ">
-  
   <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="150%"/>
-  
   <!---
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="150%"/>
   --->
   <!---
   <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="150%"/>
   --->
-<br>
-</a>
 <br/>
 <b>OOPS Exams</b>
 </td>
