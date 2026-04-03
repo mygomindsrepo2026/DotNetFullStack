@@ -126,11 +126,9 @@
        <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/22.png" width="100%"/>
     </td>
      <td width="30%" align="center">
-<a href="https://www.mygominds.com/">
-  <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/kmgm.png" width="60"/>
-</a>
-<br/>
-<b>Mygominds</b>
+       <img src="https://github.com/mygomindsrepo2026/DotNetFullStack/blob/main/C%23.Net/Images/kmgm.png" width="60"/>
+       <br/>
+<a href="https://www.mygominds.com/"><b>Mygominds</b></a>
 </td>
   </tr>
 </table>
@@ -1021,8 +1019,7 @@
     <td width="30%" align="center">
        <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/>
       <br/>
-<a href="https://online-test.classplusapp.com/?testId=68011067c74c8b93a5e1b887&defaultLanguage=en-US">
-  <img src="https://img.icons8.com/color/96/test-passed.png" width="100"/><b>📝 Take Test 14</b></a>
+<a href="https://online-test.classplusapp.com/?testId=68011067c74c8b93a5e1b887&defaultLanguage=en-US"><b>📝 Take Test 14</b></a>
 </td>
   </tr>
 </table>
