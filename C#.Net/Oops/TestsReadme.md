@@ -1,9 +1,11 @@
 <!-- ================= HEADER LOGO ================= -->
 
-<h1 align="center"> Object-Oriented Programming (OOPS)</h1>
-<h4 align="center">
-  <b>Learn OOPS concepts in a structured and visual way </b>
-</h4>
+<h1 align="center"> OOPS ONLINE TEST</h1>
+<h2 align="center">
+  <b>📝 Practice Exams  
+⏱ Timed Tests  
+📊 Instant Results  </b>
+</h2>
 
 ---
 
@@ -15,10 +17,11 @@
 </td>
 <td width="30%" align="center">
 <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ">
-  <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="150%"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="150%"/>
+<br>
 </a>
 <br/>
-<b> OOPS Interview Questions</b>
+<b>OOPS Exams</b>
 </td>
 </tr>
 </table>
