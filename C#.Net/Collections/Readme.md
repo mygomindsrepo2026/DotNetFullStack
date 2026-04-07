@@ -52,6 +52,8 @@ HashSet<T>	Unique items
 </td> <td width="35%" align="center"> <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ"> <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="200"/> </a> <br/> <b>🎥 Collections Overview</b> </td> </tr> </table>
 🔹 Example: List<T>
 <table> <tr> <td width="65%">
+
+ <code>
 using System;
 using System.Collections.Generic;
 
@@ -70,10 +72,11 @@ class Program
         }
     }
 }
+</code>
 </td> <td width="35%" align="center"> <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ"> <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="200"/> </a> <br/> <b>🎥 List Example</b> </td> </tr> </table>
 🔹 Example: Dictionary
 <table> <tr> <td width="65%">
-  
+  <code>
 using System;
 using System.Collections.Generic;
 
@@ -89,6 +92,7 @@ class Program
         Console.WriteLine(students[1]);
     }
 }
+</code>
 </td> <td width="35%" align="center"> <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ"> <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="200"/> </a> <br/> <b>🎥 Dictionary Example</b> </td> </tr> </table>
 🔹 When to Use Which?
 <table> <tr> <td width="65%">
