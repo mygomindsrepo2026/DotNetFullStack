@@ -29,9 +29,9 @@ Stack
 Queue
 </td> <td width="35%" align="center"> <a href="https://www.youtube.com/watch?v=OMb4OUTRrhQ"> <img src="https://img.youtube.com/vi/OMb4OUTRrhQ/0.jpg" width="200"/> </a> <br/> <b>🎥 Non-Generic Explained</b> </td> </tr> </table>
 <table> <tr> <td width="65%">
-2️⃣ Generic Collections ⭐
-Type-safe ✅
-Faster 🚀
+2️⃣ Generic Collections ⭐ <br/>
+Type-safe ✅ <br/>
+Faster 🚀<br/>
 Compile-time checking
 
  Examples:
